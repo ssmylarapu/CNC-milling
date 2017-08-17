@@ -1,0 +1,6 @@
+1) Open the matlab and type "final_GUI" in the command window
+2) Give the height of the letter in the mentioned box
+3) Type the letters you wanted to engrave in the mentioned box (only uppercase letters).{It will create a final.txt in the directory}
+4) Then the G-code will be generated in the allotted box.
+5) Copy the code in CNC simulator and give feedrate, desired tool, spindle speed etc.
+6) Run the simulation
